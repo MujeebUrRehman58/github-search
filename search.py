@@ -38,7 +38,3 @@ def search_github():
                 break
     except:
         pass
-
-
-if __name__ == '__main__':
-    search_github()
